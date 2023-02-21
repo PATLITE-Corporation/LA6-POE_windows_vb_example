@@ -63,4 +63,3 @@ Use the LA6 Editor to configure your signal Tower
 |CONFORMITY STANDARDS|EMC Directive, RoHS Directive, UL 508, FCC, KC|
 |PROTECTION RATINGS|IP54 (IEC 60529)|
 
-windows is a trademark or registered trademark of Microsoft Coporation.
